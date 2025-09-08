@@ -44,5 +44,6 @@ I'm passionate about solving business problems through data, digital transformat
 ---
 
 ## 📁 Featured Projects
-
+- **Power-BI-and-Python-ecommerce-analysis**: This project analyzes Brazilian e-commerce data using Power BI, enriched with external data from a Google API via Python. It demonstrates how to build a data pipeline from API to dashboard, enabling business insights for strategy and operations: https://github.com/VassilyStocke/Power-BI-and-Python-ecommerce-analysis
+ 
 - 
